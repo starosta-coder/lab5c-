@@ -1,0 +1,3 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\User\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(50,24): warning C4101:  g: неиспользованная локальная переменная
+  ConsoleApplication12.vcxproj -> C:\Users\User\source\repos\ConsoleApplication12\Debug\ConsoleApplication12.exe
